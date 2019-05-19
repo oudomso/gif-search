@@ -1,0 +1,44 @@
+.gifbtn{
+    margin: 5px;
+}
+#gif-input{
+    margin: 5px;
+}
+.rating{
+    margin-left: 30px;
+    font-weight: bold;
+}
+.gif{
+    margin-right:15px;
+    margin-left:30px;
+    margin-bottom: 10px;
+}
+body{
+    background-image: url("../images/water.jpg");
+    background-size:cover;
+    
+}
+.wrapper{
+    background-image: url("../images/mountain.jpg");
+    /* background-size:cover; */
+    opacity: 1;
+    /* margin:20px; */
+    border-bottom: solid black 5px;
+    z-index:0;
+}
+h1{
+    text-align: center;
+    z-index: 2;
+}
+#wrap{
+    border-left: solid white 5px;
+    border-bottom: solid white 5px;
+    background-image: url("https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5OC81NzYvb3JpZ2luYWwvZGVuYWxpLXRvbnMtb2YtcG9vcC5qcGc=");
+}
+#form{
+    margin: 0,30px,10px,60px;
+}
+#text{
+    font-weight: bold;
+    font-size: 15px;
+}
